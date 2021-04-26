@@ -7,6 +7,11 @@ public class test2 {
 		int a=1;
 		if(a==1) {
 			System.out.println(a);
+			int b=10;
+			while(a<=b) {
+				System.out.println("fuck offfff");
+					a++;
+			}
 		}
 	}
 
